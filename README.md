@@ -12,10 +12,19 @@ Note: The free tier of Netlify doesn't allow deployment of private organisation 
  
 Practice taking turns to explain the answers to these questions:
  - What is Netlify?
+ Netlify is a tool used for hosting frontend static content
+
  - What problems does Netlify solve?
+ With few clicks, you can connect your GitHub, GitLab, or BitBucket repository and configure CI/CD and hosting in one go.
+
  - When would you use it?
+ It also provides a generous free tier, sufficient for low-traffic websites.
+
  - When would you not use it?
+ For high traffic or dynamic websites.
+
  - What are some alternatives/competitors to Netlify? (Just to know what else is out there.)
+ Railway, heroku, Github pages, Vercel.
 
 2. Initialise your React app with Create React App. 
  - It can just be the standard "Hello World" boilerplate.
